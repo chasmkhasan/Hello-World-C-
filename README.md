@@ -1,1 +1,3 @@
-# Hello-World-C-
+# Hello-World-C#
+
+Here you will some basis work on C#.
